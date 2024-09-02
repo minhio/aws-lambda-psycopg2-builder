@@ -1,0 +1,4 @@
+.aws-sam
+build
+psycopg2-layer/python
+psycopg2-layer/lib
